@@ -12,7 +12,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Description</b></label>
+    <label for="psw"><b>Descrn</b></label>
     <input type="Description" placeholder="Enter Description" name="dsp" id="dsp" required>
     <br>
 
