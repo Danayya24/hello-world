@@ -97,7 +97,7 @@
             </div>
             <label for="dob">Enter your Date of Birth:</label>
             <input type="date" id="dob" name="dob" required />
-            <label for="address">Enter your Address:</label>
+            <label for="address">Enter your Address in detail:</label>
             <textarea id="address" name="address" required></textarea>
             <input type="submit" value="Submit" />
         </fieldset>
