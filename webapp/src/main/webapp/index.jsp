@@ -82,7 +82,7 @@
             <input type="text" id="name" name="name" required />
             <label for="email">Enter your email:</label>
             <input type="email" id="email" name="email" required />
-            <label for="password">Enter your password:</label>
+            <label for="password">Enter your password and it need specil char :</label>
             <input type="password" id="password" name="pass" required />
             <label for="confirmPassword">Confirm your password:</label>
             <input type="password" id="confirmPassword" name="confirmPass" required />
