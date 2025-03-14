@@ -78,7 +78,7 @@
     <form>
         <fieldset>
             <legend>User Personal Information</legend>
-            <label for="name">Enter your full name:</label>
+            <label for="name">Enter your full Name:</label>
             <input type="text" id="name" name="name" required />
             <label for="email">Enter your email:</label>
             <input type="email" id="email" name="email" required />
